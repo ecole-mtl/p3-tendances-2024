@@ -5,7 +5,7 @@ image_dir = "images"  # Change to your images folder
 readme_path = "README.md"
 
 # Get a list of image file names in the image directory
-image_files = [f for f in os.listdir(image_dir) if f.endswith((".png", ".jpg", ".jpeg", ".gif", ".webp"))]
+image_files = [f for f in os.listdir(image_dir) if f.endswith((".png", ".jpg", ".jpeg", ".gif", ".webp", ".pdf"))]
 
 # Write the README with image tags
 with open(readme_path, "w") as readme:
