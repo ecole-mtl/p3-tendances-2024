@@ -1,5 +1,7 @@
 # Réalité future, le contexte
 
+![4_ia_systemes_autonomes/AI 1.png](images/4_ia_systemes_autonomes/AI 1.png)
+
 ![4_ia_systemes_autonomes/AI 2.png](images/4_ia_systemes_autonomes/AI 2.png)
 
 ![4_ia_systemes_autonomes/AI 3.png](images/4_ia_systemes_autonomes/AI 3.png)
@@ -10,6 +12,5 @@
 
 ![4_ia_systemes_autonomes/AI 6.png](images/4_ia_systemes_autonomes/AI 6.png)
 
-![4_ia_systemes_autonomes/AI1.png](images/4_ia_systemes_autonomes/AI1.png)
-
 ![exemple_photoshop.jpg](images/exemple_photoshop.jpg)
+
