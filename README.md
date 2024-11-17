@@ -12,5 +12,11 @@
 
 ![4_ia_systemes_autonomes/AI_6.png](images/4_ia_systemes_autonomes/AI_6.png)
 
+![6_monitoring_adaptation/AirScanner.png](images/6_monitoring_adaptation/AirScanner.png)
+
+![6_monitoring_adaptation/Monke!.png](images/6_monitoring_adaptation/Monke!.png)
+
+![6_monitoring_adaptation/Respirator.ai.jpg](images/6_monitoring_adaptation/Respirator.ai.jpg)
+
 ![exemple_photoshop.jpg](images/exemple_photoshop.jpg)
 
