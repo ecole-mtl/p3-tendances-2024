@@ -1,6 +1,11 @@
 import os
 import re
 
+
+# RUN IT
+# python3 generate_readme.py
+
+
 # Define the directory containing images and the README file
 image_dir = "images"
 readme_path = "README.md"
