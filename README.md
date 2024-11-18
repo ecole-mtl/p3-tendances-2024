@@ -1,5 +1,7 @@
 # Réalité future, le contexte
 
+![1_spatial_computing/MoodBoard_spatial_computing_infrastructure.png](images/1_spatial_computing/MoodBoard_spatial_computing_infrastructure.png)
+
 ![2_interface_humaine/xr_01.png](images/2_interface_humaine/xr_01.png)
 
 ![2_interface_humaine/xr_02.png](images/2_interface_humaine/xr_02.png)
