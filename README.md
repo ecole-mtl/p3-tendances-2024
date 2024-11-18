@@ -1,5 +1,23 @@
 # Réalité future, le contexte
 
+![2_interface_humaine/xr_01.png](images/2_interface_humaine/xr_01.png)
+
+![2_interface_humaine/xr_02.png](images/2_interface_humaine/xr_02.png)
+
+![2_interface_humaine/xr_03.png](images/2_interface_humaine/xr_03.png)
+
+![2_interface_humaine/xr_04.png](images/2_interface_humaine/xr_04.png)
+
+![2_interface_humaine/xr_05.png](images/2_interface_humaine/xr_05.png)
+
+![2_interface_humaine/xr_06.png](images/2_interface_humaine/xr_06.png)
+
+![2_interface_humaine/xr_07.png](images/2_interface_humaine/xr_07.png)
+
+![2_interface_humaine/xr_08.png](images/2_interface_humaine/xr_08.png)
+
+![2_interface_humaine/xr_09.png](images/2_interface_humaine/xr_09.png)
+
 ![4_ia_systemes_autonomes/AI_1.png](images/4_ia_systemes_autonomes/AI_1.png)
 
 ![4_ia_systemes_autonomes/AI_2.png](images/4_ia_systemes_autonomes/AI_2.png)
