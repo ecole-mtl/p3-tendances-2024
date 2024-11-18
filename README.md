@@ -16,6 +16,8 @@
 
 ![6_monitoring_adaptation/Monke!.png](images/6_monitoring_adaptation/Monke!.png)
 
+![6_monitoring_adaptation/Problème__Les_bâtiments_représentent_une_part_importante_de_la_consommation_d'énergie_et_des_émissions_de_CO₂._Solution_IA__Utiliser_des_systèmes_de_gestion_énergétique_basés_sur_l'IA_pour_surveil_(1).jpg](images/6_monitoring_adaptation/Problème__Les_bâtiments_représentent_une_part_importante_de_la_consommation_d'énergie_et_des_émissions_de_CO₂._Solution_IA__Utiliser_des_systèmes_de_gestion_énergétique_basés_sur_l'IA_pour_surveil_(1).jpg)
+
 ![6_monitoring_adaptation/Problème_conso_bâtiment.jpg](images/6_monitoring_adaptation/Problème_conso_bâtiment.jpg)
 
 ![6_monitoring_adaptation/Respirator.ai.jpg](images/6_monitoring_adaptation/Respirator.ai.jpg)
