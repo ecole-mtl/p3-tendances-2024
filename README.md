@@ -40,5 +40,9 @@
 
 ![6_monitoring_adaptation/Surveillance_espèce_drônes.jpg](images/6_monitoring_adaptation/Surveillance_espèce_drônes.jpg)
 
+![7_durabilite_resilience/CONTEXTE.png](images/7_durabilite_resilience/CONTEXTE.png)
+
+![7_durabilite_resilience/ENERGIEMATERIAUX.png](images/7_durabilite_resilience/ENERGIEMATERIAUX.png)
+
 ![exemple_photoshop.jpg](images/exemple_photoshop.jpg)
 
