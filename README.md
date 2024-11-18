@@ -44,5 +44,9 @@
 
 ![7_durabilite_resilience/ENERGIEMATERIAUX.png](images/7_durabilite_resilience/ENERGIEMATERIAUX.png)
 
+![7_durabilite_resilience/image_bio_1.png](images/7_durabilite_resilience/image_bio_1.png)
+
+![7_durabilite_resilience/image_bio_2.png](images/7_durabilite_resilience/image_bio_2.png)
+
 ![exemple_photoshop.jpg](images/exemple_photoshop.jpg)
 
