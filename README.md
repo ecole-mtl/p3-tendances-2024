@@ -42,13 +42,17 @@
 
 ![6_monitoring_adaptation/Surveillance_espèce_drônes.jpg](images/6_monitoring_adaptation/Surveillance_espèce_drônes.jpg)
 
-![7_durabilite_resilience/CONTEXTE.png](images/7_durabilite_resilience/CONTEXTE.png)
+![7_durabilite_resilience/P3-01.PNG](images/7_durabilite_resilience/P3-01.PNG)
 
-![7_durabilite_resilience/ENERGIEMATERIAUX.png](images/7_durabilite_resilience/ENERGIEMATERIAUX.png)
+![7_durabilite_resilience/P3-02.png](images/7_durabilite_resilience/P3-02.png)
 
-![7_durabilite_resilience/image_bio_1.png](images/7_durabilite_resilience/image_bio_1.png)
+![7_durabilite_resilience/P3-03.png](images/7_durabilite_resilience/P3-03.png)
 
-![7_durabilite_resilience/image_bio_2.png](images/7_durabilite_resilience/image_bio_2.png)
+![7_durabilite_resilience/P3-04.png](images/7_durabilite_resilience/P3-04.png)
+
+![7_durabilite_resilience/P3-05.png](images/7_durabilite_resilience/P3-05.png)
+
+![7_durabilite_resilience/P3-06.png](images/7_durabilite_resilience/P3-06.png)
 
 ![exemple_photoshop.jpg](images/exemple_photoshop.jpg)
 
